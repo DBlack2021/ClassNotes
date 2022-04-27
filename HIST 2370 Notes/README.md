@@ -32,7 +32,7 @@ These notes are for HIST 2370: Renaissance to Enlightenment at Northeastern Univ
 The above list is in **NO** way comprehensive. Under each of these there are a TON of subtopics!
 
 ## Books Read in This Class:
-Machiavelli Niccolò. *The Prince*. London: Penguin, 2003.
+Machiavelli, Niccolò. *The Prince*. London: Penguin, 2003.
 
 Rabb, Theodore K. *Renaissance Lives: Portraits of an Age*. New York, NY: Basic Books, 2000. 
 
