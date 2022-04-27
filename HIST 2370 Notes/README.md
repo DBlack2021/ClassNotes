@@ -1,6 +1,6 @@
 # Notes for HIST 2370
 
-These notes are for HIST 2370: Renaissance to Enlightenment at Northeastern University. I took this course during the Spring 2022 semester taught by Professor Robert Cross. 
+These notes are for HIST 2370: Renaissance to Enlightenment at Northeastern University taught by Professor Robert Cross. I took this course during the Spring 2022 semester. 
 
 ## List of Major Topics[^1]
 
@@ -40,4 +40,7 @@ Voltaire. *Candide, or, Optimism*. London: Penguin, 2006.
 
 Wiesner, Merry E. *Early Modern Europe, 1450-1789*. Second ed. Cambridge History of Europe, Cambridge: Cambridge University Press, 2013.
 
-[^1]: Note: the above list does not align with the lecture numbers
+## Overall Thoughts
+This class was absolutely amazing. I came into it with very little European History knowledge. I had learned some basics in AP World History my freshman year of high school but overall was coming in fairly blind. The way this class is organized is incredible. Not only did I learn a mind-boggling amount of raw history, but I also got a fair dose of knowledge on historiography, methodology, and theoretical approaches to history relevant to early-modern Europe. If you're a Northeastern student with the opportunity to take any history course, I highly, **highly** recommend this one, and if this one isn't running, take one of Professor Cross's others. 
+
+[^1]: Note: the above list does not align with the lecture numbers found in the PDFs
