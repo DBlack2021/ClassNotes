@@ -16,3 +16,6 @@ These notes are for CS 3500: Object-Oriented Design (OOD) at Northeastern Univer
 # Books Read in this Class
 This class had no required readings, but the following were useful:
 
+_Effective Java: Third Edition_ by Joshua Bloch
+
+Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, _Design Patterns: Elements of Reusable Object-Oriented Software,_ Addison-Wesley, 1995.
